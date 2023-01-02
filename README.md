@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá! Me chamo Poliane :)
 
-<!--
-**Poliane-Cardoso/Poliane-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="gif-poliane" height="100" style="border-radius:50px;" src="poli-gif">
+<div align="right">
+- 📚 Sistemas de Informação 3/8
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ <div>
+<img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Poliane-Cardoso&show_icons=true&theme=panda"> 
+<img heigh="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poliane-Cardoso&theme=panda">
+</div>
